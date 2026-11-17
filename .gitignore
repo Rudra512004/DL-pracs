@@ -1,0 +1,7 @@
+# Large datasets (exceed GitHub's 100 MB file limit)
+DS_ass3/input.csv
+DS_ass3/input_test.csv
+DS_ass4/creditcard.csv
+
+# Jupyter
+.ipynb_checkpoints/
